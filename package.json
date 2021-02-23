@@ -1,0 +1,29 @@
+{
+  "name": "subkhone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.5.4",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-v4-rtl": "^4.5.2-1",
+    "cookie-cutter": "^0.2.0",
+    "faker": "^5.1.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "js-cookie": "^2.2.1",
+    "next": "10.0.2",
+    "popper.js": "^1.16.1",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-cookie": "^4.0.3",
+    "react-dom": "17.0.1",
+    "swr": "^0.3.9",
+    "universal-cookie": "^4.0.4"
+  }
+}
